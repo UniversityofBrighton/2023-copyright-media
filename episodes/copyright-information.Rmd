@@ -5,6 +5,7 @@ exercises: 2
 ---
 
 ## What is copyright?
+![&copy; Egor from AdobeStock](fig/AdobeStock_144982728.jpeg){alt="copyright definition"}
 
 Copyright is a legal right, which protects the copyright **owner** and/or the **creator** of a work.
 
@@ -21,6 +22,7 @@ Works use the copyright symbol (&copy;), a name and the year of creation.
 
 ## Who owns the copyright?
 
+![&copy; warmworld from AdobeStock](fig/AdobeStock_366787827.jpeg){alt='people'}
 There is no system in the UK for registering copyright. 
 
 Authors automatically get copyright protection when the work is created.
@@ -42,6 +44,8 @@ Copyright only protects  works when ideas are
   - **The layout** of published editions of written, dramatic and musical works. 
 
 ## Multiple independent copyrights
+
+![&copy; Oleksandr from AdobeStock](fig/AdobeStock_660476994.jpeg){alt='music'}
 
 The copyright in each type of work exists 
 **independently**.
@@ -93,7 +97,6 @@ so anyone can use or copy the works.
 Source: [https://www.gov.uk/copyright/how-long-copyright-lasts](https://www.gov.uk/copyright/how-long-copyright-lasts)
 
 
-
 ## Copyright owner: employees, freelancers and commissions
 
 The copyright is an automatic right and 
@@ -118,8 +121,9 @@ to put an agreement in place first
 covering the intellectual property of the 
 resulting work.   
 
-## Copyright of images in the UK
+## Copyright of Images in UK law
 
+![&copy; sata_production from AdobeStock](fig/AdobeStock_167942721.jpeg)
 Photographs, illustrations and other 
 images will generally be protected by 
 copyright as **artistic works**.
@@ -149,10 +153,9 @@ Images created < 70 years ago = still in copyright
 Images created > 70 years ago = copyright 
 depends on whether and when the creator died
 
+![&mobilise248; from AdobeStock](fig/AdobeStock_158741015.jpeg){alt="images"}
 
-## Digital images in copyright law
-
-Digital images covered by copyright 
+Moreover, **digital images** covered by copyright 
 protection include:
 
 - Digital photos taken on mobile phones 
@@ -162,170 +165,52 @@ photographic film and any digital images
 created from them.
 - Images such as diagrams and illustrations.
 
-**NOTE** that **creating a copy of an image**, such as
-a painting, won't result in a new copyright 
-in the new item. 
+
+## Copyright in Digitisation
+
+
+![&copy; Krakenimages.com from AdobeStock](fig/AdobeStock_629274991.jpeg){alt="photo in museum"}
+
+Digitising, if understood as making a digital copy, is copying.
+This right is reserved to the copyright owner as we already
+established. 
+
+Creating **a 2D digital image of a creative work**, 
+such as a painting, is unlikely to create new copyright 
+in the digitised version.
 
 There is some uncertainty regarding whether 
-copyright can exist in **digitised images** 
+copyright can exist in **digital images** 
 of older works (e.g. a painting or
 manuscript) for which copyright has expired.
+This is because the effort in the creation of the 
+digital photograph is negligible. 
 
-Some argue that a new copyright may arise in such copies if **specialist skills** have been used to optimise details (i.e. retouching images).
+New copyright will only arise in such digital copies 
+if **specialist skills** have been used 
+to optimise details (i.e. retouching images).
 
 Uncertainty is due that according to established case law, 
 copyright can only subsist in subject 
 matter that is original in the sense that 
 it is the author's own **‘intellectual creation'**.
 
+Following this argument, there is potential 
+for claiming **copyright in a 3D digital image** as a
+[higher degree of skills goes into creating it](https://www.jisc.ac.uk/guides/3d-digitisation-and-intellectual-property-rights).
 
 
-
-## Using copyrighted work
-
-To use something protected by copyright 
-these are the options that someone has:
-
-1. Agree a licence with the owner to use it:
-  - find owner - in many cases it might not be how
-  holds the content
-  - agree a licence agreement (permission about format, extent, purpose and time of use)
-respect moral rights (attribution right, right of integrity, right to object to false attribution)
-2. Buy or acquire the copyright
-3. Confirm that your intended use falls 
-within the exceptions to copyright.
-
-
-
-
-
-
-Some types of licences
-➤ Licences are contractual agreements between the copyright owner/s and user/s limiting how the work can be used. Examples of licences are:
-Jisc Collections
-Blanket licences (by a collecting society, e.g. CLA)
-Open educational resources (OERs, e.g. usually Creative Commons)
-Creative Commons
-Orphan works
-More information: https://www.jisc.ac.uk/full-guide/copyright-law
-
-
-Creative Commons Licenses
-CC is a standardized way to grant copyright permissions to creative work by individuals, organisations and institutions.
-CC help creators to retain copyright while allowing others to copy, distribute, and make some uses of their work.
-CC licenses work around the world and last as long as applicable copyright lasts (because they are built on copyright).
-CC common features serve as baseline, on top of which licensors can choose to grant additional permissions.
-CC licenses do not affect freedoms that the law grants to users of creative works otherwise protected by copyright, such as exceptions and limitations, such as fair dealing.
-CC licenses
-CC licenses
-Creative Commons licenses by Foter licensed under CC-BY-SA
-Database rights
+## Database rights
 An electronic database may be protected by copyright and database rights.
+
 Database rights will cover a collection of copyrighted works.
+
 Permission must have been obtained from the copyright holders for the use of their work.
+
 Database rights are automatic and have no registration forms or fees and give the owner total control over their work. You can use, sell or lease it to a third party.
+
 Database rights last for 15 years from creation, but if published during this time the term is 15 years from publication.   
 
 
-## Excercise: Curating a multi-dimensional dataset for storytelling (Nicola)
-
-In teams of 2-3 curate a dataset. Focus on gather content beyond images, look for 
-video and 3D
-
-Pay attention of advice for images, videos and 3D models.
-
-Pay attention to filenames.
-
-Check for copyright 
 
 
-
-## Storytelling with multi-dimensional data
-
-
-A variety of storytelling tools:
-
-- Storytelling tools: [TimeMapper from Open Knowledge Foundation Labs]( https://timemapper.okfnlabs.org/)
-- [Meet StoryMaps](https://storymaps.com/)
-
-https://mercator.tass.com/mercator-map
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown][pandoc] for static files (with extension `.md`) and
-[R Markdown][r-markdown] for dynamic files that can render code into output
-(with extension `.Rmd`). Please refer to the [Introduction to The Carpentries
-Workbench][carpentries-workbench] for full documentation.
-
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::: challenge 
-
-## Challenge 1: Can you do it?
-
-What is the output of this command?
-
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
-
-:::::::::::::::::::::::: solution 
-
-## Output
- 
-```output
-[1] "This new lesson looks good"
-```
-
-:::::::::::::::::::::::::::::::::
-
-
-## Challenge 2: how do you nest solutions within challenge blocks?
-
-:::::::::::::::::::::::: solution 
-
-You can add a line with at least three colons and a `solution` tag.
-
-:::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Figures
-
-You can include figures generated from R Markdown:
-
-```{r pyramid, fig.alt = "pie chart illusion of a pyramid", fig.cap = "Sun arise each and every morning"}
-pie(
-  c(Sky = 78, "Sunny side of pyramid" = 17, "Shady side of pyramid" = 5), 
-  init.angle = 315, 
-  col = c("deepskyblue", "yellow", "yellow3"), 
-  border = FALSE
-)
-```
-Or you can use pandoc markdown for static figures with the following syntax:
-
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
-
-![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
-
-## Math
-
-One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
-
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
-
-Cool, right?
-
-::::::::::::::::::::::::::::::::::::: keypoints 
-
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
-
-::::::::::::::::::::::::::::::::::::::::::::::::
