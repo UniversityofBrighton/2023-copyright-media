@@ -2,8 +2,13 @@
 site: sandpaper::sandpaper_site
 ---
 
-This is a new lesson built with [The Carpentries Workbench][workbench]. 
+![&copy; 1STunningART from AdobeStock](episodes/fig/AdobeStock_270961762.jpeg){alt="logo cc"}
 
+Welcome to the Copyright of multidimensional media lesson.
 
-[workbench]: https://carpentries.github.io/sandpaper-docs
+This lesson offers an 
+introduction to copyright within
+the UK context 
+when dealing with 
+multidimensional media.
 
