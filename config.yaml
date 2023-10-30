@@ -60,6 +60,8 @@ contact: 'team@carpentries.org'
 # Order of episodes in your lesson
 episodes: 
 - introduction.Rmd
+- copyright-information.Rmd
+- licensing-works.Rmd
 
 # Information for Learners
 learners: 

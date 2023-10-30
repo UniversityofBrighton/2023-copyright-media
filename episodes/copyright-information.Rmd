@@ -1,0 +1,331 @@
+---
+title: 'Copyright Information'
+teaching: 10
+exercises: 2
+---
+
+## What is copyright?
+
+Copyright is a legal right, which protects the copyright **owner** and/or the **creator** of a work.
+
+Copyright gives the owner **control** over their work and how it is used.
+
+There are four areas of **intellectual property**:
+
+  - **Copyright**: what the work is. 
+  - **Patents**: how something works.
+  - **Designs**: what something looks like.
+  - **Trademark**: what you call it.
+
+Works use the copyright symbol (&copy;), a name and the year of creation.
+
+## Who owns the copyright?
+
+There is no system in the UK for registering copyright. 
+
+Authors automatically get copyright protection when the work is created.
+
+Unless the work was created by an employee during their employment, or the copyright is transferred to someone else as part of their agreement. 
+
+## What works does copyright protect?
+
+There is no copyright protection for ideas/concepts. 
+
+Copyright only protects  works when ideas are 
+**expressed** in a form that can be reproduced or copied:
+
+  - **Original literary**, dramatic, musical and artistic work, including illustration and photography.
+  - **Original non-literary written work**, such as software, web content and databases.
+  - **Sound and music** recordings.
+  - **Film and television** recordings.
+  - **Broadcasts**.
+  - **The layout** of published editions of written, dramatic and musical works. 
+
+## Multiple independent copyrights
+
+The copyright in each type of work exists 
+**independently**.
+
+For example, a song may be covered by copyright:
+
+- on the **entire collectio**n which contains the song.
+- on the **lyrics** as a literary work.
+- on the **music** of the song as its performance.
+
+## How copyright protects work
+
+Copyright prevents people from:
+
+  - **copying** work
+  - putting someone's work on the **Internet**.
+  - **distributing** copies of someone's work, whether free of     
+  charge or for sale    
+  - **renting** or **lending** copies of someone's work
+  - making an **adaptation** of someone's work
+  - **performing**, **showing** or **playing** someone's work in public
+
+There are certain [exceptions](https://www.gov.uk/guidance/exceptions-to-copyright), 
+especially in the case of photographs, 
+films and recorded sound.
+
+For example:
+- making contentaccessible for disabled people.
+- text and data mining for research.
+- teaching, fair dealing and more.
+
+## Copyright duration
+
+Copyright protection starts as soon 
+as a work is created. 
+
+After copyright expires, 
+the work is in the **public domain** 
+so anyone can use or copy the works.
+
+|  Type of work   | How long copyright usually last         |
+|-----------------|-----------------|
+| Written, dramatic, musical and artistic work      | 70 years after the author's death    |
+| Sound and music recording    | 70 years from when it's first published    |
+| Films    | 70 years after the death of the director, screenplay author and composer   |
+| Broadcasts    | 50 years from when it's first broadcast    |
+| Layout of published editions of written, dramatic or musical works    | 25 years from when it's first published    |
+
+Source: [https://www.gov.uk/copyright/how-long-copyright-lasts](https://www.gov.uk/copyright/how-long-copyright-lasts)
+
+
+
+## Copyright owner: employees, freelancers and commissions
+
+The copyright is an automatic right and 
+does not need to be registered 
+or paid for (by its owner).
+
+The first owner of copyright 
+will normally be the **author**
+(who created the work).
+
+An **employer** is usually the 
+first owner of copyright in work which 
+is made in the course of an **author's** 
+employment under a contract. 
+
+For **commissioned work** and **freelancers**, the copyright 
+usually lies with the **person who creates 
+the work** unless
+it is specified in the contract. Hence, it is 
+important when commissioning work 
+to put an agreement in place first 
+covering the intellectual property of the 
+resulting work.   
+
+## Copyright of images in the UK
+
+Photographs, illustrations and other 
+images will generally be protected by 
+copyright as **artistic works**.
+
+The copyright owner of a photograph
+is its **creator**, for example, 
+the photographer or the 
+organisation/employer with which 
+the photographer has a contractual agreement.
+
+The creator of an image may choose to allow 
+a person or organisation to **license**
+the work on their behalf, license the copyright 
+directly themselves, or “assign” (transfer) 
+the copyright to another person.
+
+Copyright in images lasts for the 
+**life of the creator plus 70 years** 
+from the end of the calendar year 
+of their death. 
+
+Hence, the length 
+of the copyright period will 
+depend on when the image was created. 
+
+Images created < 70 years ago = still in copyright
+Images created > 70 years ago = copyright 
+depends on whether and when the creator died
+
+
+## Digital images in copyright law
+
+Digital images covered by copyright 
+protection include:
+
+- Digital photos taken on mobile phones 
+and digital cameras.
+- Images that were first generated on 
+photographic film and any digital images 
+created from them.
+- Images such as diagrams and illustrations.
+
+**NOTE** that **creating a copy of an image**, such as
+a painting, won't result in a new copyright 
+in the new item. 
+
+There is some uncertainty regarding whether 
+copyright can exist in **digitised images** 
+of older works (e.g. a painting or
+manuscript) for which copyright has expired.
+
+Some argue that a new copyright may arise in such copies if **specialist skills** have been used to optimise details (i.e. retouching images).
+
+Uncertainty is due that according to established case law, 
+copyright can only subsist in subject 
+matter that is original in the sense that 
+it is the author's own **‘intellectual creation'**.
+
+
+
+
+## Using copyrighted work
+
+To use something protected by copyright 
+these are the options that someone has:
+
+1. Agree a licence with the owner to use it:
+  - find owner - in many cases it might not be how
+  holds the content
+  - agree a licence agreement (permission about format, extent, purpose and time of use)
+respect moral rights (attribution right, right of integrity, right to object to false attribution)
+2. Buy or acquire the copyright
+3. Confirm that your intended use falls 
+within the exceptions to copyright.
+
+
+
+
+
+
+Some types of licences
+➤ Licences are contractual agreements between the copyright owner/s and user/s limiting how the work can be used. Examples of licences are:
+Jisc Collections
+Blanket licences (by a collecting society, e.g. CLA)
+Open educational resources (OERs, e.g. usually Creative Commons)
+Creative Commons
+Orphan works
+More information: https://www.jisc.ac.uk/full-guide/copyright-law
+
+
+Creative Commons Licenses
+CC is a standardized way to grant copyright permissions to creative work by individuals, organisations and institutions.
+CC help creators to retain copyright while allowing others to copy, distribute, and make some uses of their work.
+CC licenses work around the world and last as long as applicable copyright lasts (because they are built on copyright).
+CC common features serve as baseline, on top of which licensors can choose to grant additional permissions.
+CC licenses do not affect freedoms that the law grants to users of creative works otherwise protected by copyright, such as exceptions and limitations, such as fair dealing.
+CC licenses
+CC licenses
+Creative Commons licenses by Foter licensed under CC-BY-SA
+Database rights
+An electronic database may be protected by copyright and database rights.
+Database rights will cover a collection of copyrighted works.
+Permission must have been obtained from the copyright holders for the use of their work.
+Database rights are automatic and have no registration forms or fees and give the owner total control over their work. You can use, sell or lease it to a third party.
+Database rights last for 15 years from creation, but if published during this time the term is 15 years from publication.   
+
+
+## Excercise: Curating a multi-dimensional dataset for storytelling (Nicola)
+
+In teams of 2-3 curate a dataset. Focus on gather content beyond images, look for 
+video and 3D
+
+Pay attention of advice for images, videos and 3D models.
+
+Pay attention to filenames.
+
+Check for copyright 
+
+
+
+## Storytelling with multi-dimensional data
+
+
+A variety of storytelling tools:
+
+- Storytelling tools: [TimeMapper from Open Knowledge Foundation Labs]( https://timemapper.okfnlabs.org/)
+- [Meet StoryMaps](https://storymaps.com/)
+
+https://mercator.tass.com/mercator-map
+This is a lesson created via The Carpentries Workbench. It is written in
+[Pandoc-flavored Markdown][pandoc] for static files (with extension `.md`) and
+[R Markdown][r-markdown] for dynamic files that can render code into output
+(with extension `.Rmd`). Please refer to the [Introduction to The Carpentries
+Workbench][carpentries-workbench] for full documentation.
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Inline instructor notes can help inform instructors of timing challenges
+associated with the lessons. They appear in the "Instructor View"
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::: challenge 
+
+## Challenge 1: Can you do it?
+
+What is the output of this command?
+
+```r
+paste("This", "new", "lesson", "looks", "good")
+```
+
+:::::::::::::::::::::::: solution 
+
+## Output
+ 
+```output
+[1] "This new lesson looks good"
+```
+
+:::::::::::::::::::::::::::::::::
+
+
+## Challenge 2: how do you nest solutions within challenge blocks?
+
+:::::::::::::::::::::::: solution 
+
+You can add a line with at least three colons and a `solution` tag.
+
+:::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Figures
+
+You can include figures generated from R Markdown:
+
+```{r pyramid, fig.alt = "pie chart illusion of a pyramid", fig.cap = "Sun arise each and every morning"}
+pie(
+  c(Sky = 78, "Sunny side of pyramid" = 17, "Shady side of pyramid" = 5), 
+  init.angle = 315, 
+  col = c("deepskyblue", "yellow", "yellow3"), 
+  border = FALSE
+)
+```
+Or you can use pandoc markdown for static figures with the following syntax:
+
+`![optional caption that appears below the figure](figure url){alt='alt text for
+accessibility purposes'}`
+
+![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
+
+## Math
+
+One of our episodes contains $\LaTeX$ equations when describing how to create
+dynamic reports with {knitr}, so we now use mathjax to describe this:
+
+`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
+
+Cool, right?
+
+::::::::::::::::::::::::::::::::::::: keypoints 
+
+- Use `.md` files for episodes when you want static content
+- Use `.Rmd` files for episodes when you need to generate output
+- Run `sandpaper::check_lesson()` to identify any issues with your lesson
+- Run `sandpaper::build_lesson()` to preview your lesson locally
+
+::::::::::::::::::::::::::::::::::::::::::::::::
