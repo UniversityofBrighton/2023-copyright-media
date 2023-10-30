@@ -33,6 +33,7 @@ web resources, references and links:
 - **British library**:
 [https://www.bl.uk/business-and-ip-centre/articles/what-is-copyright](https://www.bl.uk/business-and-ip-centre/articles/what-is-copyright)
 - **Jisc guides**: [https://www.jisc.ac.uk/full-guide/copyright-law](https://www.jisc.ac.uk/full-guide/copyright-law)
+- **Jisc digitisation**:[https://www.jisc.ac.uk/guides/3d-digitisation-and-intellectual-property-rights](https://www.jisc.ac.uk/guides/3d-digitisation-and-intellectual-property-rights)
 - **Gov.uk**: 
   - General copyright information [https://www.gov.uk/copyright](https://www.gov.uk/copyright)
   - Copyright specific to images: [https://www.gov.uk/government/publications/copyright-notice-digital-images-photographs-and-the-internet/copyright-notice-digital-images-photographs-and-the-internet](https://www.gov.uk/government/publications/copyright-notice-digital-images-photographs-and-the-internet/copyright-notice-digital-images-photographs-and-the-internet)

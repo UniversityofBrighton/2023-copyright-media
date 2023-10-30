@@ -150,10 +150,11 @@ of the copyright period will
 depend on when the image was created. 
 
 Images created < 70 years ago = still in copyright
+
 Images created > 70 years ago = copyright 
 depends on whether and when the creator died
 
-![&mobilise248; from AdobeStock](fig/AdobeStock_158741015.jpeg){alt="images"}
+![&copy; mobilise248 from AdobeStock](fig/AdobeStock_158741015.jpeg){alt="images"}
 
 Moreover, **digital images** covered by copyright 
 protection include:
@@ -166,7 +167,7 @@ created from them.
 - Images such as diagrams and illustrations.
 
 
-## Copyright in Digitisation
+## Copyright resulting from digitisation works
 
 
 ![&copy; Krakenimages.com from AdobeStock](fig/AdobeStock_629274991.jpeg){alt="photo in museum"}
@@ -200,7 +201,7 @@ for claiming **copyright in a 3D digital image** as a
 [higher degree of skills goes into creating it](https://www.jisc.ac.uk/guides/3d-digitisation-and-intellectual-property-rights).
 
 
-## Database rights
+<!--## Database rights
 An electronic database may be protected by copyright and database rights.
 
 Database rights will cover a collection of copyrighted works.
@@ -209,7 +210,7 @@ Permission must have been obtained from the copyright holders for the use of the
 
 Database rights are automatic and have no registration forms or fees and give the owner total control over their work. You can use, sell or lease it to a third party.
 
-Database rights last for 15 years from creation, but if published during this time the term is 15 years from publication.   
+Database rights last for 15 years from creation, but if published during this time the term is 15 years from publication. -->  
 
 
 
