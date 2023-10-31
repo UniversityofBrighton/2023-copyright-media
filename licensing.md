@@ -4,20 +4,7 @@ teaching: 10
 exercises: 2
 ---
 
-## Using copyrighted work
-
-To use something protected by copyright 
-these are the options that someone has:
-
-1. Agree a licence with the owner to use it:
-  - find owner - in many cases it might not be how
-  holds the content
-  - agree a licence agreement (permission about format, extent, purpose and time of use)
-respect moral rights (attribution right, right of integrity, right to object to false attribution)
-2. Buy or acquire the copyright
-3. Confirm that your intended use falls 
-within the exceptions to copyright.
-
+  
 ## Licensing copyrighted work
 Licences are **contractual agreements** between the 
 copyright owner/s and user/s limiting how the work can be used. 
@@ -57,5 +44,28 @@ On top of which licensors can choose to grant additional permissions.
 
 ![How To License poster &copy; Creative Commons CC0](fig/Creativecommons-how-to-license-poster_eng.png){alt='CC license'}
 
+:::::::::: keypoints
+## Using copyrighted work
 
+To use a **creative work** protected by copyright 
+it is generally advised:
+
+1. Once you have found a **creative work** you would like
+to use, you will need to determine the type of usage:
+  - If it is not digitised, will you be producing
+  a digital version?
+  - Would you like to remix/change it? if so, Are you willing 
+  to release the resulting **creative work** for further remixes?
+  - Would you be using it for commercial purposes?
+2. Understand the license which is currently offered with
+the creative work and its restrictions.
+3. If no license is available then find the owner of the copyright. 
+Remember in many cases it might not be who holds the content.
+4. If you are using the **creative work** for educational purposes,
+confirm that your intended use falls within the exceptions to copyright.
+5. If you require a license, agree with the owner one. Favour
+the Creative Commons suite of licenses.
+6. Ensure you attribute the **creative work** when making use of it.
+
+::::::::::
 
