@@ -61,7 +61,7 @@ to use, you will need to determine the type of usage:
 the creative work and its restrictions.
 3. If no license is available then find the owner of the copyright. 
 Remember in many cases it might not be who holds the content.
-4. If you are using the **creative works** for educational purposes,
+4. If you are using the **creative work** for educational purposes,
 confirm that your intended use falls within the exceptions to copyright.
 5. If you require a license, agree with the owner one. Favour
 the Creative Commons suite of licenses.
