@@ -44,6 +44,36 @@ On top of which licensors can choose to grant additional permissions.
 
 ![How To License poster &copy; Creative Commons CC0](fig/Creativecommons-how-to-license-poster_eng.png){alt='CC license'}
 
+## Why open cultural heritage data?
+
+### The Problem of the Yellow Milkmaid
+
+>‘The Milkmaid’, one of Johannes Vermeer's most famous pieces, depicts a
+scene of a woman quietly pouring milk into a bowl. During a survey the
+Rijksmuseum discovered that there were over 10,000 copies of the image on
+the internet—mostly poor, [yellowish reproductions](https://www.google.com/search?q=milk+maid+vermeer). As a result of all of these 
+low-quality copies on the web, according to the Rijksmuseum, "people simply
+didn't believe the postcards in our museum shop were showing the original
+painting. This was the trigger for us to put high-resolution images of the
+original work with open metadata on the web ourselves. Opening up our data
+is our best defence against the ‘yellow Milkmaid’."
+
+> Extract from Harry Verwayen, Martijn Arnoldus and Peter B. Kaufman (2011).
+The Problem of the Yellow Milkmaid: A Business Model Perspective on Open Metadata.
+(Acessed November 2023). URL: [https://pro.europeana.eu/post/the-problem-of-the-yellow-milkmaid](https://pro.europeana.eu/post/the-problem-of-the-yellow-milkmaid)
+
+[Open Culture](https://creativecommons.org/about/arts-culture/) is an initative
+from Creative Commons. 
+
+It capitalises on the need to to empower creators anywhere in 
+the world to discover, share, reuse and remix cultural heritage. 
+
+More information:
+
+- [Creative Commons for GLAMS]: https://certificates.creativecommons.org/cccertedu/chapter/unit-5-creative-commons-for-glam/
+- [CC Needs and assessment report]
+(https://creativecommons.org/2023/02/23/cc-needs-assessment-report-on-public-domain-tools-in-cultural-heritage-sector-unveils-key-insights/)
+
 :::::::::: keypoints
 ## Using copyrighted work
 
