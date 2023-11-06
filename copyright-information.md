@@ -68,14 +68,20 @@ Copyright prevents people from:
   - making an **adaptation** of someone's work
   - **performing**, **showing** or **playing** someone's work in public
 
+
+## Exceptions
+
 There are certain [exceptions](https://www.gov.uk/guidance/exceptions-to-copyright), 
 especially in the case of photographs, 
 films and recorded sound.
 
 For example:
-- making contentaccessible for disabled people.
+
+- making content accessible for disabled people.
 - text and data mining for research.
 - teaching, fair dealing and more.
+
+See more information: [https://www.gov.uk/guidance/exceptions-to-copyright#non-commercial-research-and-private-study](https://www.gov.uk/guidance/exceptions-to-copyright#non-commercial-research-and-private-study)
 
 ## Copyright duration
 
@@ -94,7 +100,16 @@ so anyone can use or copy the works.
 | Broadcasts    | 50 years from when it's first broadcast    |
 | Layout of published editions of written, dramatic or musical works    | 25 years from when it's first published    |
 
+
+
+
 Source: [https://www.gov.uk/copyright/how-long-copyright-lasts](https://www.gov.uk/copyright/how-long-copyright-lasts)
+
+![Duration of Crown copyright for literary, dramatic and artistic works &copy; [The National Archives](https://cdn.nationalarchives.gov.uk/documents/information-management/crown-copyright-flowchart.pdf)](fig/crown-copyright-flowchart.png){alt="flowchart1"}
+
+![Duration of Non Crown copyright for literary, dramatic and artistic works &copy; [The National Archives](https://cdn.nationalarchives.gov.uk/documents/information-management/non-crown-copyright-flowchart.pdf)](fig/excluding-crown-copyright-flowchart.png){alt="flowchart2"}
+
+
 
 
 ## Copyright owner: employees, freelancers and commissions
@@ -137,7 +152,7 @@ the photographer has a contractual agreement.
 The creator of an image may choose to allow 
 a person or organisation to **license**
 the work on their behalf, license the copyright 
-directly themselves, or “assign” (transfer) 
+directly themselves, or "assign" (transfer) 
 the copyright to another person.
 
 Copyright in images lasts for the 
@@ -149,10 +164,6 @@ Hence, the length
 of the copyright period will 
 depend on when the image was created. 
 
-Images created < 70 years ago = still in copyright
-
-Images created > 70 years ago = copyright 
-depends on whether and when the creator died
 
 ![&copy; mobilise248 from AdobeStock](fig/AdobeStock_158741015.jpeg){alt="images"}
 
