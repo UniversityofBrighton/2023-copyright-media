@@ -73,7 +73,8 @@ especially in the case of photographs,
 films and recorded sound.
 
 For example:
-- making contentaccessible for disabled people.
+
+- making content accessible for disabled people.
 - text and data mining for research.
 - teaching, fair dealing and more.
 

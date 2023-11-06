@@ -13,15 +13,13 @@ copyright owner/s and user/s limiting how the work can be used.
 
 - [Jisc Model Licence](https://subscriptionsmanager.jisc.ac.uk/about/jisc-model-licence)
 - Copyright owners can be represented by a collecting society who
-negotiates licenses with users, e.g. (Spotify)[https://www.spotify.com/uk/legal/spotify-for-artists-terms-and-conditions/], [CLA](https://www.cla.co.uk)
+negotiates licenses with users, e.g. [Spotify](https://www.spotify.com/uk/legal/spotify-for-artists-terms-and-conditions/), [CLA](https://www.cla.co.uk)
 - [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/)
 
 Creative Works where a copyright owner is unknown or untraceable are known
 as **Orphan Works**. Guidance on how to deal with this cases is available from the
 [UK government](https://www.gov.uk/guidance/copyright-orphan-works).
 
-#Open educational resources (OERs, e.g. usually Creative Commons)
-#Orphan works
 
 
 ## Creative Commons Licenses (CC)
@@ -70,9 +68,9 @@ the world to discover, share, reuse and remix cultural heritage.
 
 More information:
 
-- [Creative Commons for GLAMS]: https://certificates.creativecommons.org/cccertedu/chapter/unit-5-creative-commons-for-glam/
-- [CC Needs and assessment report]
-(https://creativecommons.org/2023/02/23/cc-needs-assessment-report-on-public-domain-tools-in-cultural-heritage-sector-unveils-key-insights/)
+- Creative Commons for GLAMS: [https://certificates.creativecommons.org/cccertedu/chapter/unit-5-creative-commons-for-glam/](https://certificates.creativecommons.org/cccertedu/chapter/unit-5-creative-commons-for-glam/)
+- CC Needs and assessment report:
+[https://creativecommons.org/2023/02/23/cc-needs-assessment-report-on-public-domain-tools-in-cultural-heritage-sector-unveils-key-insights/](https://creativecommons.org/2023/02/23/cc-needs-assessment-report-on-public-domain-tools-in-cultural-heritage-sector-unveils-key-insights/)
 
 :::::::::: keypoints
 ## Using copyrighted work
